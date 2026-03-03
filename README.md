@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_toxic9.png" alt="TOXIC9 Banner" width="600">
+  <img src="assets/preview.png" alt="TOXIC9 Banner" width="600">
   <h1>💜 TOXIC9 Strike Panel</h1>
   <p>Suíte avançada de utilitários para automação e testes de estresse em servidores Discord.</p>
 
