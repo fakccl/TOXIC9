@@ -3,7 +3,7 @@
   <h1> TOXIC9 - PAINEL NUKE BOT</h1>
   <p>Suíte avançada de utilitários para automação e testes de estresse em servidores Discord.</p>
 
-  <img src="https://img.shields.io/badge/Version-v18.0-magenta?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v1.0-magenta?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/System-Windows-0078d4?style=for-the-badge" alt="Windows">
 </div>
