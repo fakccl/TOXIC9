@@ -33,7 +33,7 @@
 ### Opção 2: Via Git
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU_USUARIO/TOXIC9.git](https://github.com/SEU_USUARIO/TOXIC9.git)
+git clone [https://github.com/fakccl/TOXIC9.git](https://github.com/fakccl/TOXIC9.git)
 
 # Entre no diretório
 cd TOXIC9
