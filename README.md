@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/preview.png" alt="TOXIC9 Banner" width="600">
-  <h1> TOXIC9</h1>
+  <h1> TOXIC9 - PAINEL NUKE BOT</h1>
   <p>Suíte avançada de utilitários para automação e testes de estresse em servidores Discord.</p>
 
   <img src="https://img.shields.io/badge/Version-v18.0-magenta?style=for-the-badge" alt="Version">
