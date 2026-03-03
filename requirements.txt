@@ -1,0 +1,7 @@
+# Bibliotecas principais para TOXIC9
+aiohttp==3.11.12 # Para requisições assíncronas assíncronas de alto desempenho
+attrs==25.1.0 # Utilitário para classes Python
+colorama==0.4.6 # Para cores e estilos no terminal (Cross-platform)
+multidict==6.1.0 # Estrutura de dados para aiohttp
+propcache==0.3.0 # Sistema de cache para yarl
+yarl==1.18.3 # Utilitário de URL para aiohttp

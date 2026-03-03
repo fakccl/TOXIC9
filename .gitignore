@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Installed.cfg
+.pip/
+venv/
+ENV/
+
+# --- Ferramentas de Compilação (PyInstaller) ---
+# Estas pastas são criadas quando você gera o .exe e não devem ir para o GitHub
+build/
+dist/
+*.spec
+
+# --- Ambientes Virtuais e IDEs ---
+.venv/
+.idea/
+.vscode/
+*.swp
