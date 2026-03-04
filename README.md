@@ -28,7 +28,7 @@
 1. Baixe a pasta `.zip` do repositório.
 2. Extraia os arquivos.
 3. Instale as dependências: `pip install -r requirements.txt`.
-4. Execute o arquivo `nuke.py` ou o `.exe` na pasta `dist`.
+4. Execute o arquivo `TOXIC9.exe` que baixou em releases.
 
 ### Opção 2: Via Git
 ```bash
